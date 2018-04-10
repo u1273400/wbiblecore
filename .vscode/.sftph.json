@@ -1,0 +1,24 @@
+{
+    "host": "selene.hud.ac.uk",
+    "port": 22,
+    "username": "u1273400",
+    "password": "05nov79",
+    "protocol": "sftp",
+    "privateKeyPath": null,
+    "passphrase": null,
+    "passive": false,
+    "remotePath": "/web/stud/u1273400/src/cs/wbible",
+    "uploadOnSave": true,
+    "syncMode": "update",
+    "watcher": {
+        "files": false,
+        "autoUpload": true,
+        "autoDelete": true
+    },
+    "ignore": [
+        "**/.vscode",
+        "**/.git",
+        "**/.DS_Store",
+        "**/.sftpConfig.json"
+    ]
+}

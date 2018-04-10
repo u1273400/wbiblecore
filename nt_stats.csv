@@ -1,0 +1,28 @@
+BookStatsId,BookCode,ChaptCount,VerseCount,WordCount,Testament
+40,Matthew,28,1071,23343,1
+41,Mark,16,678,14949,1
+42,Luke,24,1151,25640,1
+43,John,21,879,18658,1
+44,Acts,28,1007,24229,1
+45,Romans,16,433,9422,1
+46,1 Corinthians,16,437,9462,1
+47,2 Corinthians,13,257,6046,1
+48,Galatians,6,149,3084,1
+49,Ephesians,6,155,3022,1
+50,Philippians,4,104,2183,1
+51,Colossians,4,95,1979,1
+52,1 Thessalonians,5,89,1837,1
+53,2 Thessalonians,3,47,1022,1
+54,1 Timothy,6,113,2244,1
+55,2 Timothy,4,83,1666,1
+56,Titus,3,46,896,1
+57,Philemon,1,25,430,1
+58,Hebrews,13,303,6897,1
+59,James,5,108,2304,1
+60,1 Peter,5,105,2476,1
+61,2 Peter,3,61,1553,1
+62,1 John,5,105,2517,1
+63,2 John,1,13,298,1
+64,3 John,1,14,294,1
+65,Jude,1,25,608,1
+66,Revelation,22,404,11952,1

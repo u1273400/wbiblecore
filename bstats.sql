@@ -1,0 +1,1 @@
+insert into Stats(bookstatsid,bookcode,chaptcount,versecount,wordcount,testament) select bookid,bookname,chaptcount,versecount,wordcount,'1' from stats_new
